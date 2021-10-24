@@ -23,7 +23,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          homePageId: 'intro',
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
@@ -109,6 +108,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  themes: ['@docusaurus/theme-live-codeblock'],
 };
 
 module.exports = config;
