@@ -6955,10 +6955,10 @@ react-helmet@^6.1.0:
     react-fast-compare "^3.1.1"
     react-side-effect "^2.1.0"
 
-react-hooks-extended@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-hooks-extended/-/react-hooks-extended-0.0.1.tgz#0767fdb1fa54e9822a706c6aec026d0dd7618137"
-  integrity sha512-3kSrfs7wE2EJ5c8bhueflWMir21z8AOeriKZILfcrgRlSA2veWckXPjC4iJV3kZlcDMFoT5RG8NFWLtafEiaVQ==
+react-hooks-extended@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/react-hooks-extended/-/react-hooks-extended-0.0.2.tgz#3cebd4fba3f228a9debe53b5f580224d60652a7d"
+  integrity sha512-0WVjphExlheckEq4zzdtKOB69DYnCR4Z4eQRnibDsY8FzikDcGurmBN6EjTBZBn92SF92KOj6GkMRWUTFJvp2A==
 
 react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
